@@ -1,5 +1,5 @@
-# CATNIP
-This repository provides training and evaluation scripts for applying **CATNIP** to various datasets, including Harry Potter QA, raw Harry Potter text, and WMDP. It also includes evaluation guidance for unlearning performance.
+# CALIBURN
+This repository provides training and evaluation scripts for applying **CALIBURN** to various datasets, including Harry Potter QA, raw Harry Potter text, and WMDP. It also includes evaluation guidance for unlearning performance.
 
 ---
 
@@ -22,7 +22,7 @@ This repository provides training and evaluation scripts for applying **CATNIP**
 
 ---
 
-## CATNIP Training
+## CALIBURN Training
 
 - For using CATNIP on the **Harry Potter QA** dataset, please refer to **scripts/HP_QA_CATNIP.sh**.
 - For using CATNIP on the **Harry Potter text** dataset, please refer to **scripts/HP_raw_CATNIP.sh**.
