@@ -24,10 +24,10 @@ This repository provides training and evaluation scripts for applying **CALIBURN
 
 ## CALIBURN Training
 
-- For using CATNIP on the **Harry Potter QA** dataset, please refer to **scripts/HP_QA_CATNIP.sh**.
-- For using CATNIP on the **Harry Potter text** dataset, please refer to **scripts/HP_raw_CATNIP.sh**.
-- For using CATNIP on the **WMDP Cyber** dataset, please refer to **scripts/cyber_CATNIP.sh**.
-- For using CATNIP on the **WMDP Bio** dataset (alternative setting), please refer to **scripts/bio_CATNIP.sh**.
+- For using CALIBURN on the **Harry Potter QA** dataset, please refer to **scripts/HP_QA_CATNIP.sh**.
+- For using CALIBURN on the **Harry Potter text** dataset, please refer to **scripts/HP_raw_CATNIP.sh**.
+- For using CALIBURN on the **WMDP Cyber** dataset, please refer to **scripts/cyber_CATNIP.sh**.
+- For using CALIBURN on the **WMDP Bio** dataset (alternative setting), please refer to **scripts/bio_CATNIP.sh**.
 
 ---
 
